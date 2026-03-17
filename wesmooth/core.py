@@ -1,5 +1,6 @@
 import numpy as np
 from scipy.stats import norm
+from scipy.optimize import minimize_scalar
 
 class WassExpSmooth:
     def __init__(self):
