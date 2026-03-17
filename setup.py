@@ -8,5 +8,5 @@ setup(
     author='Wilson Ye Chen',
     license='MIT',
     packages=['wesmooth'],
-    install_requires=['numpy']
+    install_requires=['numpy', 'scipy']
     )

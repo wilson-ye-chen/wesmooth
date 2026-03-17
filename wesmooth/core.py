@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.stats import norm
 
 class WassExpSmooth:
     def __init__(self):
