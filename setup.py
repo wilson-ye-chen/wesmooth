@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='wesmooth',
-    version='0.0.3',
+    version='0.0.4',
     description='Wasserstein Exponential Smoothing',
     url='https://github.com/wilson-ye-chen/wesmooth',
     author='Wilson Ye Chen',
